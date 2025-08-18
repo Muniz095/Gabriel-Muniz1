@@ -1,2 +1,40 @@
-# Gabriel-Muniz1
-site
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olá, Giovanna</title>
+    <link rel="stylesheet" href="stylegio.css">
+</head>
+
+<body>
+    
+    <h1> Para: Giovanna Diel</h1>
+    <div>
+        <img src="fotog6.jpeg" alt="foto nossa" width="300">
+    </div>
+
+<main>
+    <h2>Motivos pelos quais eu te amo mais</h2>
+       <ul>
+            <li><p>eu sou perdidamente apaixonado por você</p></li>
+            <img src="fotog.jpeg" alt="foto nossa" width="300">
+            <li><p>eu não consigo imaginar minha vida sem você</p></li>
+            <img src="fotog2.jpg" alt="foto nossa" width="300">
+            <li><p>eu sou mais alto, ou seja, cabe mais amor</p></li>
+            <img src="fotog3.jpeg" alt="foto nossa" width="300">
+            <li><p>nunca tive ex, o seja, me guardei pra você</p></li>
+            <img src="fotog4.jpeg" alt="foto nossa" width="300">
+            <li><p>você é minha vida, e eu amo minha vida</p></li>
+            <img src="fotog5.jpeg" alt="foto nossa" width="300">
+            <p>Eu Te amoooooo</p>
+        <a href="https://www.instagram.com/giiovannadiel/">O amor da minha vida</a><br>
+        <a href="https://www.instagram.com/_gi.giovanna_/">O amor da minha vida privado</a><br>
+        <a href="https://www.instagram.com/gyyiovanna_diel/">O amor da minha vida antigo</a>
+        </ul>
+
+    </main>
+
+    <script src="aula.html.script.js"></script>
+</body>
+</html>
