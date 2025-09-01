@@ -1,23 +1,17 @@
 body{
 
-    background: linear-gradient(to bottom, #0088ff, #000000);
+    background: linear-gradient(to bottom ,rgb(0, 0, 255), rgb(128, 0, 128),rgb(255, 105, 180));
     font-family: 'Courier New', Courier, monospace;
     justify-items: center;
 }
-li{
-    margin: 1%;
-    padding: 10px;
-    border: 1px solid black;
-    border-radius: 20px;
-}
-li{
-    list-style: none;
-}
-h1{
-    color: red;
+
+h1,h2{
+    color: rgb(255, 255, 255);
     text-align: center;
 }
-h2{
-    color: blue;
+img{
+    border-radius: 10%;
+}
+.imagem{
     text-align: center;
 }
